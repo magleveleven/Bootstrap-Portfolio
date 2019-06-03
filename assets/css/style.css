@@ -1,0 +1,13 @@
+header {
+    top: 0;
+    background-color: white;
+    position: absolute;
+    overflow: hidden;
+    height: 100px;
+    border-bottom-width: 2px;
+    border-bottom-color:#cccccc;
+    border-bottom-style: solid;
+    width: 100%;
+    margin-left: 0px;
+
+}
