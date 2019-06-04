@@ -116,6 +116,10 @@ img {
     margin-top: 65px;
     height: 25px;
 }
+
+.form-group {
+    color: grey;
+}
 .footCont {
     border-top-style: solid;
     border-color: lightgray;
